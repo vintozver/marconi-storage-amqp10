@@ -1,2 +1,2 @@
-marconi-ampq
-============
+marconi-amqp10
+==============
